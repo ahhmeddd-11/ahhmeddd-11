@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 
 ## 📬 Connect With Me
 
-- 📧 Email: [syedahmed.4957.com]  
+- 📧 Email: [syedahmed.4957@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/ahhmeddd/](https://linkedin.com/in/ahhmeddd/)  
 - 🌐 Portfolio: [ahhmeddd.netlify.app/](https://ahhmeddd.netlify.app/)  
 
