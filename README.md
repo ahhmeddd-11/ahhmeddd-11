@@ -39,8 +39,8 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 ## 📬 Connect With Me
 
 - 📧 Email: [syedahmed.4957.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/ahhmeddd)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://ahhmeddd.netlify.app)  
+- 💼 LinkedIn: [linkedin.com/in/ahhmeddd/](https://linkedin.com/in/ahhmeddd/)  
+- 🌐 Portfolio: [ahhmeddd.netlify.app/](https://ahhmeddd.netlify.app/)  
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
 
