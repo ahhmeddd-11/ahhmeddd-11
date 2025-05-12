@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 
 - 🎓 CSE Student | Tech Enthusiast | Lifelong Learner  
 - 🛠️ I have experience in **MySQL**, **Excel**, **Power Bi**, **Python**, and **much more**
-- 💡 Working on projects that blend AI, Web Development, and real-world utility
+- 💡 Working on projects that blend AI, visualize data, and real-world utility
 - 🧑‍🏫 Former **IT Trainer & Mentor** | Ex-**System Administrator**
 - 🧠 Currently learning: `Data Visualization`, `Power BI`, `Tableau`, and `Excel`
 
@@ -16,14 +16,11 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 
 ## 💼 Projects I’m Proud Of
 
-- 🔢 **Handwritten Digit Recognition**  
-  Custom CNN trained on real-world data, deployed with XAI support & web interface.
+- 🖐️ [**Gesture Driven Mouse Control**](https://github.com/ahhmeddd-11/gesture-driven-mouse-control.git)  
+  Use your hand gestures to control the mouse — powered by computer vision and Python!
 
-- ☁️ **Smart Weather Notifier**  
-  AI-based weather predictions (no IoT), with real-time updates and SMS alerts.
-
-- 🧾 **Diagnostic Lab Report Generator**  
-  Complete patient & test management system with roles, billing, and report generation.
+- 🩺 [**Diabetes Prediction System**](https://github.com/ahhmeddd-11/Diabetes-Prediction.git)  
+  Machine learning-based system to predict diabetes using health data and analytics.
 
 ---
 
