@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Syed Ahmed Ali!
 
 Welcome to my GitHub! I'm a passionate Computer Science & Engineering student with a knack for building practical and impactful projects. I love exploring new technologies, solving problems, and bringing creative ideas to life.
 
@@ -7,10 +7,10 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 ## 🚀 About Me
 
 - 🎓 CSE Student | Tech Enthusiast | Lifelong Learner  
-- 🛠️ I have experience in **MySQL**, **HTML/CSS**, **Java**, **Python**, and **Node.js**
+- 🛠️ I have experience in **MySQL**, **Excel**, **Power Bi**, **Python**, and **much more**
 - 💡 Working on projects that blend AI, Web Development, and real-world utility
 - 🧑‍🏫 Former **IT Trainer & Mentor** | Ex-**System Administrator**
-- 🧠 Currently learning: `Machine Learning`, `Power BI`, `Tableau`, and `Excel`
+- 🧠 Currently learning: `Data Visualization`, `Power BI`, `Tableau`, and `Excel`
 
 ---
 
@@ -38,9 +38,9 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 
 ## 📬 Connect With Me
 
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 📧 Email: [syedahmed.4957.com]  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/ahhmeddd)  
+- 🌐 Portfolio: [your-portfolio-link.com](https://ahhmeddd.netlify.app)  
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
 
